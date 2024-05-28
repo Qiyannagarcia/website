@@ -7,11 +7,9 @@ description: For users who would like to download and organize their own media.
 # Local source
 
 If you like to download and organize your media, then you want to know how to manage your own series in Tachiyomi.
-
 ::: warning
 This page explores some advanced features.
 :::
-
 ## Creating local series
 
 1. In the location you specified as your storage location (e.g., `/Tachiyomi/`), there should be a `local` folder. Place correctly structured series inside that (e.g. `/Tachiyomi/local/`).
